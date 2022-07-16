@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Unspalsh_photo_search_project_cipherschool/static/css/main.7dfb6ef2.css",
+    "main.js": "/Unspalsh_photo_search_project_cipherschool/static/js/main.83405ed7.js",
+    "index.html": "/Unspalsh_photo_search_project_cipherschool/index.html",
+    "main.7dfb6ef2.css.map": "/Unspalsh_photo_search_project_cipherschool/static/css/main.7dfb6ef2.css.map",
+    "main.83405ed7.js.map": "/Unspalsh_photo_search_project_cipherschool/static/js/main.83405ed7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dfb6ef2.css",
+    "static/js/main.83405ed7.js"
+  ]
+}
